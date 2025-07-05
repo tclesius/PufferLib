@@ -142,6 +142,7 @@ MAKE_FUNCTIONS = {
     'tripletriad': 'TripleTriad',
     'tactical': 'Tactical',
     'target': 'Target',
+    'turret': 'Turret',
     'go': 'Go',
     'rware': 'Rware',
     'trash_pickup': 'TrashPickupEnv',
